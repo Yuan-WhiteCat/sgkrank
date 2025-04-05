@@ -19,7 +19,7 @@
 
 暗精灵社工库是一个综合开盒社工库，算是老牌Telegram社工库机器人，此社工库支持简单查询、人工查档、猎魔、人肉搜索的综合社工库查询工具。此社工库社工库收录全网最全快递及订单数据（来自淘宝、京东等购物网站的4541420022条泄露数据），绝对的老牌社工库，可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
-* 暗精灵社工库账号: <a href="https://t.me/AJL02_bot?start=1180760062" target="_blank">@AJL02_bot</a>
+* 暗精灵社工库账号: <a href="https://t.me/AJL02_bot?start=845044974" target="_blank">@AJL02_bot</a>
 * 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 使用如下图：
@@ -31,7 +31,7 @@
 
 这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
 
-* 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-ray社工库</a>；
+* 账号: <a href="https://t.me/Zonesgk_bot?start=ZSTOSSAYS" target="_blank">X-ray社工库</a>；
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 情报局社工库-青龙⭐⭐⭐⭐⭐
